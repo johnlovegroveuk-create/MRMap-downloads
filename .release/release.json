@@ -1,0 +1,209 @@
+{
+  "version": "0.3.1",
+  "apk_sha256": "3b41a03baa8fcaec029581d107cdd349de7db67a3081e8899e08ab68acacde1e",
+  "apk_size": 49590956,
+  "packed_sha256": "f92e5a9bfea4a2e68a8762d5836dc57e48465b21eedb15442f1676410380737c",
+  "notes": [
+    "Checks for app updates when opened, with a manual check in Settings.",
+    "Adds a permanent download page link.",
+    "Uses a permanent release signing key for future updates.",
+    "Includes restricted team passwords, automatic air services and the Mountain Rescue app icon."
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "sha": "1042291f4bb0b644ee8aa403fdfb300a6b8a1009",
+      "size": 524288
+    },
+    {
+      "index": 1,
+      "sha": "dc3ba3c2c944590a7c01798f6cf605900fa5f876",
+      "size": 524288
+    },
+    {
+      "index": 2,
+      "sha": "7277353ff2a5da0e229f1971c3644e1f820524c8",
+      "size": 524288
+    },
+    {
+      "index": 3,
+      "sha": "acb1de52a51c587ecc7b5a7af608b11e200a0692",
+      "size": 524288
+    },
+    {
+      "index": 4,
+      "sha": "45d157d512de690e6b5a46dae1d9ecdc23bf9f4a",
+      "size": 524288
+    },
+    {
+      "index": 5,
+      "sha": "9d2abfc899b3ed7f45b8cf8f18b492d200e580be",
+      "size": 524288
+    },
+    {
+      "index": 6,
+      "sha": "2941272c1e6dac3e16cda55e3842299f71dae0bd",
+      "size": 524288
+    },
+    {
+      "index": 7,
+      "sha": "95bac125107f6fc021f2e839c5e6d9e68d88cb33",
+      "size": 524288
+    },
+    {
+      "index": 8,
+      "sha": "31213ee3c75aa4dd51d398d6521ec71d9bc71dd2",
+      "size": 524288
+    },
+    {
+      "index": 9,
+      "sha": "e1a3c3883c78ea23896133a7336f8590ffc0b13a",
+      "size": 524288
+    },
+    {
+      "index": 10,
+      "sha": "3e924e00f2362f1510b7b332ac7f3b2226e909ae",
+      "size": 524288
+    },
+    {
+      "index": 11,
+      "sha": "07e9320d7a12aa664ed00af490fbb023f06920cc",
+      "size": 524288
+    },
+    {
+      "index": 12,
+      "sha": "2f097b26fab48b43311dbffc38b0ebf6dabcc973",
+      "size": 524288
+    },
+    {
+      "index": 13,
+      "sha": "9eb033abdea508e5d28ccee41b44288cc28afb8b",
+      "size": 524288
+    },
+    {
+      "index": 14,
+      "sha": "63a3e21d837d8042a0b3daffd3e847e91db16484",
+      "size": 524288
+    },
+    {
+      "index": 15,
+      "sha": "a6698dd0d187639c23064a1863a42c71c1d9ba80",
+      "size": 524288
+    },
+    {
+      "index": 16,
+      "sha": "d04ba1850b66039d6851492d1c7ff47d6508ef24",
+      "size": 524288
+    },
+    {
+      "index": 17,
+      "sha": "09272eba6e1059e9375d839d27d4720bcd93cc49",
+      "size": 524288
+    },
+    {
+      "index": 18,
+      "sha": "96e8aa9381ccce9d18be62ff6493b6e3d44f3423",
+      "size": 524288
+    },
+    {
+      "index": 19,
+      "sha": "1f28fc491b7325c430a815603b491a86f19f54e2",
+      "size": 524288
+    },
+    {
+      "index": 20,
+      "sha": "30fa7d541c655b830efc949e7d306d9ba02e43f7",
+      "size": 524288
+    },
+    {
+      "index": 21,
+      "sha": "4b2d30f3fd781dbbe2339b23300533db1ea7a998",
+      "size": 524288
+    },
+    {
+      "index": 22,
+      "sha": "0e794b447b3a6040daa4b784d011454fd6156abc",
+      "size": 524288
+    },
+    {
+      "index": 23,
+      "sha": "6336f3c5294ef57e286acdf01b3566d76e42a1fa",
+      "size": 524288
+    },
+    {
+      "index": 24,
+      "sha": "c56e6eb85e4c5fe2e83b5b3ec3b565658e44e635",
+      "size": 524288
+    },
+    {
+      "index": 25,
+      "sha": "e42caab68ad3fafa0bdcb9f0b582f92998d29ea6",
+      "size": 524288
+    },
+    {
+      "index": 26,
+      "sha": "57c9fc405cfb064a014094acd039b643e2d184bc",
+      "size": 524288
+    },
+    {
+      "index": 27,
+      "sha": "b02d2f5e9b122b96059faf3d4c255fe243ec562b",
+      "size": 524288
+    },
+    {
+      "index": 28,
+      "sha": "2041d8491d9d8b3dfbb3ac568e5c6b33875785ac",
+      "size": 524288
+    },
+    {
+      "index": 29,
+      "sha": "341b860ca057375820eb3f75e177e593e8c7008c",
+      "size": 524288
+    },
+    {
+      "index": 30,
+      "sha": "cf576dc5226a4a76ef315c14f21b1cf353d64911",
+      "size": 524288
+    },
+    {
+      "index": 31,
+      "sha": "22e47ced5cba7edd95d7e646b90c264d6be1a404",
+      "size": 524288
+    },
+    {
+      "index": 32,
+      "sha": "1445fbe33b58df6b0a7431f2a168c5c4b366f912",
+      "size": 524288
+    },
+    {
+      "index": 33,
+      "sha": "9cc59e59eb7c4e3c893d8d56fa14579aca667ac7",
+      "size": 524288
+    },
+    {
+      "index": 34,
+      "sha": "b688d1a74dbac11014fcfd1a15250e51a581eef5",
+      "size": 524288
+    },
+    {
+      "index": 35,
+      "sha": "ac18bf4206059fe666e2aceeb36fbb2ecae1d99d",
+      "size": 524288
+    },
+    {
+      "index": 36,
+      "sha": "a1882a0276754ff6e38ba6ac615275f7295c788c",
+      "size": 524288
+    },
+    {
+      "index": 37,
+      "sha": "acd3c0f095193135d9b011b919011e06d77e2b88",
+      "size": 524288
+    },
+    {
+      "index": 38,
+      "sha": "e7a9cb06cb4348fe4d72689abf22e352417af11d",
+      "size": 194166
+    }
+  ]
+}

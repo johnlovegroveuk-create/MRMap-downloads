@@ -1,0 +1,20 @@
+name: Publish verified Android download
+
+on:
+  push:
+    branches: [main]
+    paths: ['.release/release.json']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish the verified signed APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .release/publish.py

@@ -1,0 +1,18 @@
+{
+  "published": true,
+  "applicationId": "uk.org.wmrt.mrmap",
+  "versionCode": 4,
+  "versionName": "0.3.1",
+  "minSdk": 26,
+  "releaseDate": "2026-10-25",
+  "notes": [
+    "Checks for app updates when opened, with a manual check in Settings.",
+    "Adds a permanent download page link.",
+    "Uses a permanent release signing key for future updates.",
+    "Includes restricted team passwords, automatic air services and the Mountain Rescue app icon."
+  ],
+  "apkUrl": "https://github.com/johnlovegroveuk-create/MRMap-downloads/releases/download/v0.3.1/MRMap-Android-0.3.1.apk",
+  "sha256": "3b41a03baa8fcaec029581d107cdd349de7db67a3081e8899e08ab68acacde1e",
+  "signingCertificateSha256": "8e886c507b1a7267b0669f055496fcbf817bdbbefa894b34e1965648a27d1377",
+  "sizeBytes": 49590956
+}
